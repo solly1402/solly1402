@@ -15,9 +15,9 @@
 
 <br/><br/>
 
-<!-- Spotify — thay YOUR_SPOTIFY_UID bằng uid của bạn (xem hướng dẫn) -->
+<!-- Spotify -->
 <a href="https://open.spotify.com/">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=a78bfa&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tp0sx38ztehp05ju8ufuj752k&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=a78bfa&bar_color_cover=false" alt="Spotify Now Playing"/>
 </a>
 
 <br/><br/>
