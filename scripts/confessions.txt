@@ -1,0 +1,30 @@
+Today ChatGPT fixed 3 bugs. I created all 3.
+I asked AI to explain my own code. It said "who wrote this?"
+My code works. I don't know why. Neither does the AI.
+I don't debug. I just paste the error and pray.
+I pressed Tab 47 times today. That's my workout.
+Stack Overflow misses me. ChatGPT replaced it.
+I said "make it work" 12 times. It finally worked.
+The AI wrote the code. I wrote "thanks bro".
+I can't center a div. But I know who can.
+My README is more polished than my code.
+git commit -m "AI did this"
+I read the docs once. It was a mistake.
+Copilot is my senior dev. I'm the intern.
+Today I wrote a for loop by myself. Big day.
+"It works on my machine" - and only on my machine.
+I renamed a variable. That's my contribution today.
+Spent 2 hours prompting to save 10 minutes of coding.
+Regex? I just ask the AI and hope.
+My debugging tool: console.log("here")
+Ran out of AI credits. I'm not a developer today.
+AI hallucinated a library. I tried to install it anyway.
+IndentationError. Again. Even with AI.
+Every bug is a feature if you believe hard enough.
+Today's commit: 1 line by me, 300 lines by AI.
+I told the AI "no bugs pls". It lied.
+Wrote this code last week. Understood it for 2 minutes.
+Ctrl+C, Ctrl+V, Ctrl+Z, repeat.
+I'm not lazy. I'm "AI-efficient".
+Deleted node_modules. Felt like a senior dev.
+The AI said "great question!" I felt smart for 3 seconds.

@@ -31,6 +31,11 @@
 
 <br/>
 
+<!-- Visitor counter -->
+<img src="https://count.getloli.com/@solly1402?name=solly1402&theme=capoo-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="visitors"/>
+
+<br/>
+
 <sub><i>⚡ 1% code by me, 99% by my AI buddy — 100% honest.</i></sub>
 
 </div>
