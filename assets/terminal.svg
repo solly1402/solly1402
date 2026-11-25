@@ -68,7 +68,7 @@
     <text x="24" y="316" clip-path="url(#c3)"><tspan class="u">solly1402@github</tspan>:<tspan class="p">~</tspan>$ cat today_confession.txt</text>
   </g>
   <g opacity="0"><set attributeName="opacity" to="1" begin="8s" fill="freeze"/>
-    <text id="confession" x="24" y="344" class="y">&gt; I read the docs once. It was a mistake.</text>
+    <text id="confession" x="24" y="344" class="y">&gt; I asked AI to explain my own code. It said &quot;who wrote this?&quot;</text>
   </g>
 
   <!-- L4: motto -->
